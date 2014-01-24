@@ -1,0 +1,6 @@
+demo
+demo
+get
+"../u.html"
+"E:\\u.html"
+quit
